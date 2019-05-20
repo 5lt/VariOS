@@ -1,6 +1,6 @@
 <link rel="icon" href="https://cdn.glitch.com/f50c1a29-1c67-48c7-9ec9-06cae7532fee%2Flogo.png?1558122826552">
 # About VariOS
-VariOS is an operating system built off of Linux. The whole thing is ran and hosted by [5LT](https://5lt.dev) and this is the VariOS website. Feel free to look around maybe see some screenshots.
+VariOS is an operating system built by Safyre Lyons (5LT). The whole thing is ran and hosted by [5LT](https://5lt.dev) and this is the VariOS website. Feel free to look around maybe see some screenshots.
 
 # Development Schedule
 ## Start
