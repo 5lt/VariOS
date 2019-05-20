@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# About VariOS
+VariOS is an operating system built off of Linux. The whole thing is ran and hosted by [5LT](https://5lt.dev) and this is the VariOS website. Feel free to look around maybe see some screenshots.
 
-You can use the [editor on GitHub](https://github.com/5lt/VariOS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Development Schedule
+## Start
+Started the project May 17th 2019 as a plan to be an Ubuntu based distro.
+## Changes in plan
+Became an LFS project May 20th 2019.
+## BLOG
+### [Visit Our Blog Now!](https://medium.com/varios-developement)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Downloads
+<center>
+  <h2>This is where you download the ISO</h2>
+  <table>
+    <tr>
+      <th>Version #</th><th>Version Download</th>
+    </tr>
+    <tr>
+      <th>No versions</th><th>No downloads</th>
+    </tr>
+  </table>
+</center>
 
-### Markdown
+# Copyright
+This is all under the MIT licence so feel free to copy, edit, and redistribute.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5lt/VariOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Donate
+[PayPal.me](paypal.me/5ltcode)<br>
+<br>
+I also accept LibrePay
+<script src="https://liberapay.com/fivelt/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/fivelt/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<br>
+<script src="https://liberapay.com/fivelt/widgets/receiving.js"></script>
